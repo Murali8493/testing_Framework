@@ -25,8 +25,6 @@ public class BaseClass {
             WebDriverManager.chromedriver().setup();
             ChromeOptions chromeOptions = new ChromeOptions();
             chromeOptions.addArguments("--disable-notifications");
-
-
             driver=new ChromeDriver(chromeOptions);
         }
         if(browserName.equalsIgnoreCase("Edge"))
