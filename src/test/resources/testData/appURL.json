@@ -1,0 +1,12 @@
+{
+
+  "Browser" : "Chrome" ,
+
+  "URLS" : {
+    "QA":"https://freecrm.com/" ,
+
+    "QA1":""
+
+  }
+
+}
