@@ -1,0 +1,12 @@
+{
+
+  "Browser" : "Chrome" ,
+
+  "URLS" : {
+    "QA":"https://ui.cogmento.com/" ,
+
+    "QA1":""
+
+  }
+
+}
